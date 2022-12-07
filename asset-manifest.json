@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/What-To-Do-App/static/css/main.90084209.css",
+    "main.js": "/What-To-Do-App/static/js/main.3d5b8fe3.js",
+    "static/js/787.5e141d9e.chunk.js": "/What-To-Do-App/static/js/787.5e141d9e.chunk.js",
+    "index.html": "/What-To-Do-App/index.html",
+    "main.90084209.css.map": "/What-To-Do-App/static/css/main.90084209.css.map",
+    "main.3d5b8fe3.js.map": "/What-To-Do-App/static/js/main.3d5b8fe3.js.map",
+    "787.5e141d9e.chunk.js.map": "/What-To-Do-App/static/js/787.5e141d9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90084209.css",
+    "static/js/main.3d5b8fe3.js"
+  ]
+}
